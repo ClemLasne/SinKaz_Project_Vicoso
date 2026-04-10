@@ -1,5 +1,3 @@
-# SinKaz_Project_Vicoso
-
 # The SIN-KAZ Project
 
 The SINKAZ project aims at exploring **how hybridization disrupts patterns of gene expression**. To do so, 2 Artemia species *A. sinica* and *A. kazakhstan* were crossed to obtain F1 individuals, which were the back-crossed to the 2 parental populations to obtain "F2BC" individuals ("BC" standing for "form a Back-Cross"). 
